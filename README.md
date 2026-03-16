@@ -79,6 +79,10 @@ make helm-uninstall      # Uninstall Helm releases
 make kind-down           # Tear down cluster
 ```
 
+### Production Cluster Deployment
+
+See **[Deployment QuickStart Guide](deploy/README.md)** for a concise bring-up guide, and **[Detailed Installation Guide](deploy/INSTALLATION.md)** for the full step-by-step reference with per-component explanations.
+
 ## CLI
 
 `carbidecli` is a command-line client that wraps the full REST API. Install it and set up configs for each environment you work with:
